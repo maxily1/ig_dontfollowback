@@ -21,3 +21,9 @@ python3 main.py -u <username> -p <password>
 
 ## NOTE: If you stalk in any errors, Please open an issue / contact me (https://github.com/maxily1)
 
+# Contributing
+You are more then invited to contribute to this project. Every contribution is appreciated.
+
+# License
+MIT - See [LICENSE](https://github.com/maxily1/ig_dontfollowback/blob/main/LICENSE) for more information regarding this license.
+
