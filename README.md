@@ -25,5 +25,5 @@ python3 main.py -u <username> -p <password>
 You are more then invited to contribute to this project. Every contribution is appreciated.
 
 # License
-MIT - See [LICENSE](https://github.com/maxily1/ig_dontfollowback/blob/main/LICENSE) for more information regarding this license.
+MIT - See [LICENSE](https://github.com/maxily1/ig_dontfollowback/blob/master/LICENSE) for more information regarding this license.
 
