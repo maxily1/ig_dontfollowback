@@ -6,6 +6,7 @@ Firstly, Install the required library using the following command:
 ```sh
 python -m pip install instapy
 ```
+Secondly, Make sure you have the latest version of Firefox installed! This is IMPORTANT.
 
 ## Steps for running the script:
 1. Run the script using the following command - make sure to change `<username>` and `<password>` appropriately without the "<>" symbols:
@@ -14,6 +15,9 @@ python3 main.py -u <username> -p <password>
 ```
 2. Wait a few seconds for the program to finish, and there will be a list of all of the people who don't follow back.
 3. That's it.
+
+# Common Issues and Troubleshooting:
+* Checkpoint required - This is mostly occuring due to 2FA in Instagram. In order to fix this issue, all you need is to find the Firefox window opened by Selenium, and confirm the login. 
 
 ## NOTE: If you stalk in any errors, Please open an issue / contact me (https://github.com/maxily1)
 
