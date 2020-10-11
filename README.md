@@ -17,7 +17,7 @@ python3 main.py -u <username> -p <password>
 3. That's it.
 
 # Common Issues and Troubleshooting:
-* Checkpoint required - This is mostly occuring due to 2FA in Instagram. In order to fix this issue, all you need is to find the Firefox window opened by Selenium, and confirm the login. 
+* Checkpoint required - This is mostly occuring due to 2FA in Instagram. In order to fix this issue, all you need is to find the Firefox window opened by Selenium, and confirm the login. Or procceed to the link which is stated in the error and do the challenge. Or, before running this script, Log in to your account in Firefox.
 
 ## NOTE: If you stalk in any errors, Please open an issue / contact me (https://github.com/maxily1)
 
